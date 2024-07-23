@@ -1,0 +1,15 @@
+body{
+    background-image: url(images/7dca122a-caf6-4d0f-8cdb-a6dc3686f3be.jpg);
+    background-size: 100%;
+}
+
+div{
+    border-radius: 100px;
+    margin: 3%;
+    background-color: black;
+}
+
+.Texto{
+
+    color: aqua;
+}
