@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+body{
+    background-image: url(images/7dca122a-caf6-4d0f-8cdb-a6dc3686f3be.jpg);
+    background-size: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+.Texto{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    display: flex;
+    flex-direction: column;
+    margin: 3%;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    overflow-y: scroll;
+    max-height: 92vh;
+    padding: 2% 5%;
+
+}
+
